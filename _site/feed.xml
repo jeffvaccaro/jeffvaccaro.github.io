@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-22T22:49:49-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">J:\V BLOG</title><subtitle>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me:&lt;br&gt; **&quot;I&apos;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**&lt;br&gt; I&apos;m told that application was around for years before being retired!
+</subtitle><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><entry><title type="html">Beyond the Code: The Tech Interview</title><link href="http://localhost:4000/beyond/the/code/2024/11/19/the-tech-interview.html" rel="alternate" type="text/html" title="Beyond the Code: The Tech Interview" /><published>2024-11-19T12:00:00-07:00</published><updated>2024-11-19T12:00:00-07:00</updated><id>http://localhost:4000/beyond/the/code/2024/11/19/the-tech-interview</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2024/11/19/the-tech-interview.html"><![CDATA[<p>My stomach dropped when I found out that I was being laid off! There was so much uncertainty, fear, and anger in that moment. I had so many things that I was thinking about and dreading about my situation. It probably took me about a week to calm down and start looking at my next steps and what I needed to do for my upcoming job hunt. The first thing I did was look at my resume. Thankfully, it was recently updated, but I knew I needed to put an end date where there wasn’t one. Then there was the LinkedIn profile tinkering. And once you are all ready to go, you flip the “Open to Work” flag, and the recruiters find you, and everyone loves you, and it’s easy to find a new gig… Well… Maybe in years past that was the case, but not this time around…. My reality was that for the first couple of weeks, it was pretty quiet.
+<br /><br />
+I’m a full-stack dev, which means I float between front-end development, middle tier (API), and backend (SQL). My stack of choice is Angular with TypeScript, C#, and SQL Server. Being a full stack means you have to know quite a bit between all the different layers of an application. I don’t want to say that we are know-it-alls, but we have to know a lot. However, so much of our knowledge really is dependent on the projects that we’ve worked on. No two projects are the same, especially when you talk about legacy apps (anything built before you). So the “Jack of all trades” moniker is fairly accurate, but what I don’t like is the “Master of None” part.
+<br /><br />
+However, this isn’t a Full Stack Dev vs… post. This is about the Tech Interview. It is the Full Stack Dev’s worst nightmare. I have often said the tech interview is like going to a school you know nothing about and taking a test where you don’t know the topics or the questions ahead of time. It could be broad topics, or it could be very specific topics. It could be definition-based or LeetCode tests. For me, and I think many others, it is very difficult, nerve-wracking, and a bit insulting.
+<br /><br /></p>
+
+<h1 id="the-tech-interview-process-is-broken">The Tech interview process is BROKEN!</h1>
+
+<p>I realize that there are a lot of impostors out there, and you feel like you need to weed those people out. Here’s the thing… 9 times out of 10, the business application development project is pretty much the same. You have your data entry screen, your service which calls your API, which then either calls an Entity framework call or a stored procedure. Why would you ask questions about O(n) or have a developer do a LeetCode exercise manipulating arrays when your application is a standard business application?
+<br /><br />
+I was in an interview where the dev collated a list of questions that were very specific to their application. I understand that they thought those questions were valid, but I knew 5 minutes into the interview that I was not doing well, and this was not the project that I wanted to be part of. Naturally, you may say, “see, it worked! You figured out that it wasn’t the right fit.” Yeah, you are right, it did work. But I would counter with, the interviewer choosing this “testing style” of interview is wasting their time, as even if they find someone to “pass” their test, they are still leaving out the personality part. Remember, we have to work together for 8+ hours a day. How many articles do we have to read about EQ over IQ and the importance of team chemistry?
+<br /><br /></p>
+
+<h1 id="so-what-are-the-arguments-for-the-standard-tech-interview">So what are the arguments for the Standard Tech interview?</h1>
+
+<p><b>Standardization</b>: Technical tests help standardize the evaluation process, ensuring that all candidates are measured against the same criteria.
+<b>Technical Depth</b>: Demonstrating concepts shows a deeper understanding of CS principles that can be beneficial in solving complex problems.
+<b>Problem-solving Skills</b>: LeetCode and similar tests can help identify candidates with strong problem-solving skills.
+<b>Experience Verification</b>: Specific technical questions about past projects can verify a candidate’s hands-on experience.
+<br /><br />
+I was in a scenario where I was interviewing candidates for a technology that I didn’t have a lot of information on. In fact, I had never really used that technology before, and I wondered if I was the ‘right’ person to do the interview. However, I was asked to do it, so I did. My approach was to look up very basic questions and answers about the technology we were looking for and conduct a conversational-style interview.
+<br /><br />
+<b>“What kind of challenges did you face in your last project using this technology?”</b> as well as <b>“What is the coolest thing you’ve written in this technology and why?”</b>. I even managed to work the easy questions into these questions to really solidify basic knowledge of the technology. The answers to that style of question tell me more about the skill of that developer than a memorization test. I could immediately filter out who was winging it and who actually did the work. Plus, when you allow the candidate to talk and feel comfortable, you start seeing communication styles and any frustrations they might have had that allow you to ask follow-ups. I would argue that I was able to capture each of the arguments above this way.
+<br /><br />
+Is it a perfect approach? No. There will be people that slip through and talk a good game. However, those people that might slip through are usually good people as you felt good about their interview. Even with the occasional miss, I believe it is still better than the test-based approach. Let’s face it, unfortunately some people have been unemployed long enough where they can practice and memorize tests and definitions. That does not make them better programmers; they become better test-takers. <i>I’m not shaming the unemployed dev… You are doing what you have to do to get a job. Keep at it, you’ll get one soon enough!</i> My point is that these tests only eliminate candidates, and you are missing out on quality people because they may not have been exposed to exactly what you are working on.
+<br /><br />
+I know that there will be Software Managers and other Developers will say “your’re wrong! It does this, that and this…” Listen, interviewing is hard, the candidate is nervous, it is time-consuming for you and expensive for the company. Unless you have specific needs about O(n), or array manipulation and specifics for needing SUPER DEEP knowledge of a topic, I would suggest that you switch it up to a more conversational approach. You’ll find a lot more candidates that you can train to get up to your standards as well as work with because you’ve gotten an insight into who they are as a person.
+<br /><br />
+<b>For all the devs still looking for a job</b>: If you are in the C#, SQL, Angular space, here is my study guide that I was using: <a href="https://github.com/jeffvaccaro/jeffvaccaro/blob/main/study-guide.txt" target="_blank">https://github.com/jeffvaccaro/jeffvaccaro/blob/main/study-guide.txt</a>
+<br /><br />
+I’d love to hear about any tips and tricks you may have with studying up for the next interview! Keep grinding, you’re next gig is right around the corner!</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[My stomach dropped when I found out that I was being laid off! There was so much uncertainty, fear, and anger in that moment. I had so many things that I was thinking about and dreading about my situation. It probably took me about a week to calm down and start looking at my next steps and what I needed to do for my upcoming job hunt. The first thing I did was look at my resume. Thankfully, it was recently updated, but I knew I needed to put an end date where there wasn’t one. Then there was the LinkedIn profile tinkering. And once you are all ready to go, you flip the “Open to Work” flag, and the recruiters find you, and everyone loves you, and it’s easy to find a new gig… Well… Maybe in years past that was the case, but not this time around…. My reality was that for the first couple of weeks, it was pretty quiet. I’m a full-stack dev, which means I float between front-end development, middle tier (API), and backend (SQL). My stack of choice is Angular with TypeScript, C#, and SQL Server. Being a full stack means you have to know quite a bit between all the different layers of an application. I don’t want to say that we are know-it-alls, but we have to know a lot. However, so much of our knowledge really is dependent on the projects that we’ve worked on. No two projects are the same, especially when you talk about legacy apps (anything built before you). So the “Jack of all trades” moniker is fairly accurate, but what I don’t like is the “Master of None” part. However, this isn’t a Full Stack Dev vs… post. This is about the Tech Interview. It is the Full Stack Dev’s worst nightmare. I have often said the tech interview is like going to a school you know nothing about and taking a test where you don’t know the topics or the questions ahead of time. It could be broad topics, or it could be very specific topics. It could be definition-based or LeetCode tests. For me, and I think many others, it is very difficult, nerve-wracking, and a bit insulting.]]></summary></entry><entry><title type="html">Roadmap/TODO list</title><link href="http://localhost:4000/kickconnect/2024/11/17/road-map-todo-list.html" rel="alternate" type="text/html" title="Roadmap/TODO list" /><published>2024-11-17T12:00:00-07:00</published><updated>2024-11-17T12:00:00-07:00</updated><id>http://localhost:4000/kickconnect/2024/11/17/road-map-todo-list</id><content type="html" xml:base="http://localhost:4000/kickconnect/2024/11/17/road-map-todo-list.html"><![CDATA[<p>While it has been a productive couple of months, building a new application from scratch is a lot of work! I’ve never built a CRM before, so I’m still learning about the important features and letting the application guide me in understanding what it needs. I know that might sound weird, but for example, I’m working on the <strong>Profiles</strong> section right now. I have a <strong>ROLE of INSTRUCTOR</strong> that can be assigned to internal users, I have also built the <strong>Events and Scheduling</strong> sections, but now I need to assign the <strong>Events</strong> to the <strong>Instructor</strong>. So, I’m working through the flow of how to get that done. There’s the “just get it to work” from a programming perspective, but then there’s also making sure it “works for the user” perspective. That’s what I mean by allowing the application to tell me what it needs.</p>
+
+<p>One of the games I play is an Early Access game, and they just released an update along with an updated roadmap for the game. This inspired me to formally write down a roadmap for KickConnect. I had a loose set of requirements, but as the application grows in its foundation, I’m starting to realize that I can add more features much quicker now! Below is the roadmap I’m working towards. Some of these features I don’t know what they will look like yet, but they serve as placeholders for me. Some of these features will evolve into other features.</p>
+
+<p><strong>JOB UPDATE</strong> As many of you know, I found a new job! This is great news for me personally and financially. It’s a significant job (1 month in so far), but it also requires a lot of my time. I’ve been pleased with my progress in working on KickConnect during weekends and some evenings. I don’t feel like I’m burning the candle at both ends yet. If I weren’t as far along with the foundational items, I could see putting it on the back burner or having progress come a lot slower. Since I’m past the initial setup phase, I feel like progress will continue at a nice pace.  Plus I’m enjoying working on it.  It’s fun building something from scratch!</p>
+
+<h2 id="roadmap-for-kickconnect-v1">Roadmap for KickConnect v1</h2>
+<ul>
+  <li><del>Build Accounts</del></li>
+  <li><del>Build Users for Accounts</del></li>
+  <li>Build Profiles for Instructors</li>
+  <li><del>Build Locations</del></li>
+  <li><del>Build Events/Classes</del></li>
+  <li><del>Build Scheduler (ability to schedule Events/Classes)</del></li>
+  <li>Build ability to schedule Instructors to Events/Classes</li>
+  <li>Build Member Portal</li>
+  <li>Build Membership documentation</li>
+  <li>Build documentation storage</li>
+  <li>Build Membership communication</li>
+  <li>Build Public Website Templates
+    <ul>
+      <li>Customization of Templates</li>
+    </ul>
+  </li>
+  <li>Build E-Commerce Private</li>
+  <li>Build E-Commerce Public</li>
+  <li>Build E-Commerce Sales tracking</li>
+  <li>Build Membership Events tracking</li>
+  <li>Importing existing data</li>
+  <li>Phone Apps</li>
+  <li>Social Media integration</li>
+</ul>
+
+<h2 id="todo-list">TODO List</h2>
+<ul>
+  <li>Ability to Copy Events from Day to Day (QOL)</li>
+  <li><del>Ability to Resent Password Reset (QOL)</del></li>
+  <li>Ability to turn on and off components for users -Member Portal</li>
+  <li>AWS Technology Addition/conversion:
+    <ul>
+      <li>Lambdas</li>
+      <li>API Gateway</li>
+      <li>Containers</li>
+      <li>Deployments/Terraform(?)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="foundational-items-status-completed-but-evolving">FOUNDATIONAL ITEMS: Status COMPLETED (but evolving)</h2>
+<ul>
+  <li>Created DB
+    <ul>
+      <li>Created Seed Scripts</li>
+      <li>Created SPROCS</li>
+    </ul>
+  </li>
+  <li>Created API
+    <ul>
+      <li>Tested CRUD API</li>
+    </ul>
+  </li>
+  <li>Purchased UI
+    <ul>
+      <li>Customized UI</li>
+    </ul>
+  </li>
+  <li>Implemented Testing</li>
+  <li>Implemented Development Enhancements locally</li>
+  <li>Implemented AWS environment</li>
+</ul>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="kickConnect" /><summary type="html"><![CDATA[While it has been a productive couple of months, building a new application from scratch is a lot of work! I’ve never built a CRM before, so I’m still learning about the important features and letting the application guide me in understanding what it needs. I know that might sound weird, but for example, I’m working on the Profiles section right now. I have a ROLE of INSTRUCTOR that can be assigned to internal users, I have also built the Events and Scheduling sections, but now I need to assign the Events to the Instructor. So, I’m working through the flow of how to get that done. There’s the “just get it to work” from a programming perspective, but then there’s also making sure it “works for the user” perspective. That’s what I mean by allowing the application to tell me what it needs.]]></summary></entry><entry><title type="html">Status of kickConnect</title><link href="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html" rel="alternate" type="text/html" title="Status of kickConnect" /><published>2024-11-11T12:00:00-07:00</published><updated>2024-11-11T12:00:00-07:00</updated><id>http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status</id><content type="html" xml:base="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html"><![CDATA[<h2 id="kickconnect-v03alpha">kickConnect v.0.3(Alpha)</h2>
+<p>The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)!  I wanted an experience much like when I schedule meetings.  I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar.  There was <b>A LOT</b> of testing that when into this functionality.  As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table).  The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!<br /></p>
+
+<p><img src="/assets/images/KC-Scheduler.png" alt="Scheduler Screenshot" /></p>
+
+<h4 id="testing-playwright">Testing: Playwright</h4>
+<p>As a developer I have used Selenium for regression testing. A while back I started to hear about Playwright.  I started looking at it last week and HOLY COW IT IS AMAZING!!!  And…  Super simple.  I’m still writing tests, but I can now say the kickConnect NOW HAS TESTS!  What I would like to do is write a test for every component that kickConnect has, then I want to write tests that will “SEED” the database for release purposes.  As the application gets bigger with more features the database is harder and harder to keep clean. So being able to truncate all the data out of the database and then have tests to re-add the data, all while testing to make sure everything works seems like a no brainer.</p>
+
+<h4 id="working-on-new-features">Working on NEW features</h4>
+<p>I’m working on 3 features right now!  Profiles, Shopify integration and HTML Template Customization.</p>
+
+<p>Profiles is the pre-cursor for the ability to really complete the circle of Events/Classes.  The system allows for the creation for Events, and as discussed above users can now “Schedule” those Events/Classes.  The last step is to “Assign” the Events/Classes to Profiles.</p>
+
+<p>Shopify Integration is in the infant stages of development.  But the idea is I want kickConnect to tie into the Shopify network for e-commerce capabilities.</p>
+
+<p>The last thing that I’m pretty stoked about is the HTML-Template customization.  One of the requirements I had early on for kickConnect is to allow the functionality to offer HTML Templates for small businesses to host.  This weekend I started work on that.  I’m very excited to show what capability soon!</p>
+
+<h3 id="whats-the-road-map">What’s the Road map…</h3>
+<p>-Profiles
+-Shopify
+-HTML-Template Customization
+-Component Management
+    - Ability to turn on and off components for users
+-Member Portal
+-Member Tables and Date Input
+-Importing existing data 
+-Phone Apps
+-Communication ability</p>
+
+<p>-AWS Architecture
+    - Lambdas
+    - API Gateway
+    - Containers
+    - Deployments</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="kickConnect" /><summary type="html"><![CDATA[kickConnect v.0.3(Alpha) The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)! I wanted an experience much like when I schedule meetings. I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar. There was A LOT of testing that when into this functionality. As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table). The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!]]></summary></entry><entry><title type="html">Welcome to the J:\V BLOG</title><link href="http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG.html" rel="alternate" type="text/html" title="Welcome to the J:\V BLOG" /><published>2024-11-10T12:00:00-07:00</published><updated>2024-11-10T12:00:00-07:00</updated><id>http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG</id><content type="html" xml:base="http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG.html"><![CDATA[<h2 id="welcome-to-the-jv-blog">Welcome to the J:\V BLOG</h2>
+
+<p>I’ve blogged before, so welcome back!  But if you’re new here, let me introduce myself. My name is Jeff, I’ve been a Full Stack Developer since the very beginning of my career.  I’m proud of this and to be honest I wear it as a badge of honor.  It’s never been an <i>easy</i> career, but I relish the feeling of figuring something out that I’ve never done before!  Most of my career has been as a Microsoft developer.  I started out as a VB4 dev and ASP, I have fond memories of the browser wars and the dot com BOOM(&amp; BUST)!  Since the early 2000’s I adopted .NET and C#.  I’ve dabbled in .php and I was a PROUD Windows Phone developer (I’m still sad/<span style="color: red;">angry</span> it wasn’t more popular).  Since my Windows Phone days, I’ve done WPF, ASP.NET, webAPI (all w/C# as my language of choice) and my front end of choice is Angular w/typeScript although I’ve dabbled with Vue.js and React as well.<br />
+<br />
+My current passion project is something I call <a href="http://kickconnect-env-1.eba-bsj8msyj.us-east-1.elasticbeanstalk.com/" target="_blank">KickConnect!</a>  It is a Customer Management Relationship tool for Martial Art studios.  I’m building that in Angular, Node/ExpressJS with a MySQL database.</p>
+
+<h4 id="this-will-be-my-main-platform-for-kickconnect-updates">This will be my main platform for <b>KickConnect</b> updates:</h4>
+<p>I will share the latest updates and insights on KickConnect. I’ll be sharing successes, failures and everything in-between!</p>
+
+<h4 id="continuing-the-beyond-the-code-posts">Continuing the “<b>Beyond the Code:</b>” posts</h4>
+<p>I’m going to continue to go beyond just the technical aspects of programming and explore the human side of technology.  It will be my story of the current state of tech.</p>
+
+<p>Thank you for reading this, I hope you have a great day!  I’m glad to have a place to share my journey!</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="general" /><summary type="html"><![CDATA[Welcome to the J:\V BLOG]]></summary></entry><entry><title type="html">Beyond the Code: My Unemployment journey</title><link href="http://localhost:4000/beyond/the/code/2024/10/08/my-unemployment.html" rel="alternate" type="text/html" title="Beyond the Code: My Unemployment journey" /><published>2024-10-08T13:00:00-06:00</published><updated>2024-10-08T13:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2024/10/08/my-unemployment</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2024/10/08/my-unemployment.html"><![CDATA[<p>Many of you know, I got caught up in the layoff mania of 2024. I can tell you firsthand that the market is very different than it has been. I got laid off twice in 2001, and today’s market feels oddly similar but also very different. In 2001, all the money dried up for start-ups, and 9/11 had just happened, so there was a ton of uncertainty. For whatever reason, there is a lot of uncertainty in the market now and I can’t actually put a finger on what is going on. I know companies are making money, and I’m pretty sure most companies haven’t replaced devs with AI (yet). It is a very odd time, and I’m hopeful that it changes quickly.
+<br /><br /></p>
+
+<p>This journey for me has been rough already, and I’m just starting. I’ve already been ghosted, I’ve received countless rejection letters, and I’ve gone to in-person interviews only to be passed over for unclear reasons… I’ve spent a TON of time on this job search already. It is exhausting and frustrating, with WAY more downs than ups at the moment.
+<br /><br />
+As much as I would love to lay around, watch Netflix &amp; eat bon-bons during this time off, I find myself <b>BUSY</b>. I am not just chilling during this time off. I go down to my office every day, I’m taking phone calls, and applying for jobs, but I’m also still coding close to 6 hours a day. I’ve dedicated my entire adult life to coding; <b>I’m not stopping just because I’m not getting paid to do it anymore.</b>
+<br /><br />
+I started to think about a project that I could create about 2 to 3 weeks before getting laid off. <i>Do I wish that I had thought about and started this project several weeks earlier? YES!</i> But here we are…
+<br /><br />
+Starting something from scratch is overwhelming. There is SO much to do, and there were several nights where I was just struggling to make progress, either by learning new things or getting things to work right. <i>That’s right folks, even though we make it look easy, there is a lot of frustration that goes into developing anything.</i> It is during these times that I reminded myself to <b>“Keep grinding!</b> Eventually you will have something to show for it.”
+<br /><br />
+Well… That day is today! This is NOT the final version and I have a TON of work todo still. <b>I can’t reiterate enough… This is SUPER ALPHA!!!</b> But it is time to start showing what I have. It is sucessfully hosted it on AWS and it is going to serve as my “portfolio project” (for now). My project is called <a href="http://kickconnect-env-1.eba-bsj8msyj.us-east-1.elasticbeanstalk.com/">KickConnect</a> - It is a Customer Relationship Management tool intended for Martial Art Studios (possibly other industries as well). As I do a deep-dive into understanding the current CRM landscape and pinpoint the unique features KickConnect can offer to help small businesses manage customer data and improve customer relationships, I’m also putting on my Architect, Full Stack Developer, Cloud and UI expert hat(s). I’m actively developing this project using the following technologies:
+<br /><br /></p>
+<ul>
+    <li>Angular using TypeScript</li>
+    <li>Node.js/Express</li>
+    <li>MySQL</li>
+    <li>Hosted on AWS (using Beanstalk and an RDS instance)</li>
+</ul>
+<p><br /><br />
+I made some early architectual decisions for this project. I chose Angular over React to double down on my skills, having developed in Angular for the past five years. While I considered C# and webAPI, I opted for Node.js/Express due to lower hosting costs on AWS. And though MongoDB is popular, I stuck with MySQL because a CRM inherently needs a relational database. I also decided to continue with AWS as my cloud provider of choice, as I’m most familiar with it after using it for several years.
+<br /><br />
+During this period of time has been a bit of an emotional roller coaster, I’m still trying to get my mind right with being “laid off”. Not having a job is unsettling, and there are a lot of unknowns right now. Having this project is more than just a coding exercise, this project is helping me stay focused and giving me <b>hope</b> by feeling <b>empowered</b> during this time of uncertainty.
+<br /><br />
+<i>Do I expect to be a 10x dev by the end of this? No!</i> But I am upskilling by doing this. So far, in the last month, I’ve learned the following:
+<br /><br /></p>
+<ul>
+    <li>JWT</li>
+    <li>AuthInterceptors</li>
+    <li>AuthGuards</li>
+    <li>Interfaces and Extending 3rd party objects</li>
+    <li>Closures &amp; Modules</li>
+    <li>IAM Users/Roles/Policies</li>
+    <li>Inbound/Outbound Rules</li>
+</ul>
+
+<p><br /><br />
+I expect this list to grow, a lot. Especially as the migration to AWS continues. 
+<br /><br />
+I am doing this because I love being a developer, and I’m looking at this time off as an opportunity to build something from scratch that will either be a <b>great portfolio app</b> that I will learn a lot from or maybe it will become something much more.
+<br /><br />
+There is more to come from this project as <b>I’m just getting started!</b>
+<br /><br />
+<i>If you are reading this then and don’t know me personally then let me introduce myself (<a href="https://github.com/jeffvaccaro" target="_blank">gitHub</a>/<a href="https://www.linkedin.com/in/jeffvaccaro" target="_blank">LinkedIn</a>) - I’m a software developer with 25 years of experience with a lot of Microsoft technology (C#, ASP.Net, .Net, Angular MSSQL) and Angular/Typescript under my belt. I’m leaning HARD on my network to help me get my next gig. If you know of a position in your circles please reach out.
+<br /><br />
+If you are an entreprenuer, please reach out. I’m not going to ask for money or pitch you my idea. I just want to pick your brain. I’d love to know what you created and the challenges and the successes that you have experienced trying to go out on your own. </i></p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[Many of you know, I got caught up in the layoff mania of 2024. I can tell you firsthand that the market is very different than it has been. I got laid off twice in 2001, and today’s market feels oddly similar but also very different. In 2001, all the money dried up for start-ups, and 9/11 had just happened, so there was a ton of uncertainty. For whatever reason, there is a lot of uncertainty in the market now and I can’t actually put a finger on what is going on. I know companies are making money, and I’m pretty sure most companies haven’t replaced devs with AI (yet). It is a very odd time, and I’m hopeful that it changes quickly.]]></summary></entry><entry><title type="html">Beyond the Code: When a Good Job Isn’t Anymore</title><link href="http://localhost:4000/beyond/the/code/2024/09/24/when-a-good-job.html" rel="alternate" type="text/html" title="Beyond the Code: When a Good Job Isn’t Anymore" /><published>2024-09-24T13:00:00-06:00</published><updated>2024-09-24T13:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2024/09/24/when-a-good-job</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2024/09/24/when-a-good-job.html"><![CDATA[<p>Throughout my career, I’ve had many jobs and I’m very fortunate to have had the career that I’ve had. I’m thankful for the opportunities and experiences that I’ve accumulated over the years. Among these experiences, one stands out as particularly memorable: a job that was exceptional until it wasn’t.
+<br /><br />
+I’ve been in a situation where I had a really good job. The team was very strong, the business owners treated the people on the project with respect and dignity. The product was well managed and had a really nice reputation for quality. The company was great, with good benefits, a manager that I liked, low stress, and good pay.
+<br /><br />
+It was a really good job but Isaac Newton once said, “What goes up, must come down.”. I won’t go into the specifics, but the job became something else, something that it wasn’t when I first started. I had come to the realization that I had “lost” that job. 
+<br /><br />
+I liken this loss to grief and according to Google, there are 5 stages of grief:
+<br /><br />
+<b>Denial</b> - I told myself, “I am a Full Stack developer, and last year’s review was awesome. Everything will work out in the end. I’ll be okay.”
+<br /><br />
+<b>Anger</b> - This manifested with the beginnings of a bad attitude. Frustration set in many different ways. I was starting to bring work up at home.
+<br /><br />
+<b>Bargaining</b> - I worked really hard during this stage. I worked way later than I had ever done before, I logged in during the weekends. I was constantly thinking about the job. I found myself worrying about it, and it was stressing me out.
+<br /><br />
+<b>Depression</b> - This part sucked… During this challenging time, I found that I was struggling to find balance. I decided to reach out to a therapist, and it was one of the best decisions I made. We discussed various aspects of my life, including my job.
+<br /><br />
+<b>Acceptance</b> - This is where I began to retake control of the situation (therapy was very helpful here). I time-boxed how long I was going to stay. I was ready to move on, and having that end date really helped me see things much clearer. Once I accepted the position I was in, I was able to start working on a portfolio application which was a passion project that allowed me the ability to upskill and prepare for the new opportunities awaiting me.
+<br /><br />
+Looking back, I realize that going through the stages of grief for this job was a necessary part of my journey. There is no ‘Easy Button’ for this process, but acknowledging and working through each stage helped me move forward. For anyone facing a similar situation, remember that it’s okay to seek help and take control of your path. 
+<br /><br />
+<b>One last thing… I am gratefulfor these experiences. I have chosen to learn and grow from the challenging experiences. I am also very thankful to have experienced something that I considered a good job. That is what we all hope for.</b>
+<br /><br />
+<i>Side note - If you ever want to talk about therapy with me, please reach out. I have found it to be very helpful. I still speak to my therapist about all sorts of things!</i></p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[Throughout my career, I’ve had many jobs and I’m very fortunate to have had the career that I’ve had. I’m thankful for the opportunities and experiences that I’ve accumulated over the years. Among these experiences, one stands out as particularly memorable: a job that was exceptional until it wasn’t. I’ve been in a situation where I had a really good job. The team was very strong, the business owners treated the people on the project with respect and dignity. The product was well managed and had a really nice reputation for quality. The company was great, with good benefits, a manager that I liked, low stress, and good pay. It was a really good job but Isaac Newton once said, “What goes up, must come down.”. I won’t go into the specifics, but the job became something else, something that it wasn’t when I first started. I had come to the realization that I had “lost” that job. I liken this loss to grief and according to Google, there are 5 stages of grief: Denial - I told myself, “I am a Full Stack developer, and last year’s review was awesome. Everything will work out in the end. I’ll be okay.” Anger - This manifested with the beginnings of a bad attitude. Frustration set in many different ways. I was starting to bring work up at home. Bargaining - I worked really hard during this stage. I worked way later than I had ever done before, I logged in during the weekends. I was constantly thinking about the job. I found myself worrying about it, and it was stressing me out. Depression - This part sucked… During this challenging time, I found that I was struggling to find balance. I decided to reach out to a therapist, and it was one of the best decisions I made. We discussed various aspects of my life, including my job. Acceptance - This is where I began to retake control of the situation (therapy was very helpful here). I time-boxed how long I was going to stay. I was ready to move on, and having that end date really helped me see things much clearer. Once I accepted the position I was in, I was able to start working on a portfolio application which was a passion project that allowed me the ability to upskill and prepare for the new opportunities awaiting me. Looking back, I realize that going through the stages of grief for this job was a necessary part of my journey. There is no ‘Easy Button’ for this process, but acknowledging and working through each stage helped me move forward. For anyone facing a similar situation, remember that it’s okay to seek help and take control of your path. One last thing… I am gratefulfor these experiences. I have chosen to learn and grow from the challenging experiences. I am also very thankful to have experienced something that I considered a good job. That is what we all hope for. Side note - If you ever want to talk about therapy with me, please reach out. I have found it to be very helpful. I still speak to my therapist about all sorts of things!]]></summary></entry><entry><title type="html">Beyond the Code: Will AI fire me?</title><link href="http://localhost:4000/beyond/the/code/2024/08/13/will-AI-fire-me.html" rel="alternate" type="text/html" title="Beyond the Code: Will AI fire me?" /><published>2024-08-13T13:00:00-06:00</published><updated>2024-08-13T13:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2024/08/13/will-AI-fire-me</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2024/08/13/will-AI-fire-me.html"><![CDATA[<h3>HEADLINE: THE RISE OF AI IS HERE! <br />All programmers will be replaced by AI! </h3>
+
+<p>In my career, I’ve heard about the demise of the programmer since the very beginning. First there was the DOTCOM BUST. Then came “Off Shoring” and “Outsourcing”, and then there was the Lo-Code/No-Code movement. Now the latest headlines are all about AI and once again the software developers days are numbered.
+<br /><br />
+I think all the headlines mentioned above have affected the industry in some form. But the “The Sky is Falling” crowd has never gotten it 100% right.
+<br /><br />
+I wonder about AI a lot lately. Will it affect me? Am I basically training my replacement with every search or question now in CoPilot? The answer to this question is possibly yes. My experience with CoPilot has freed up a lot of my searching time, allowing me to move on to the next thing. Right now, AI (specifically CoPilot) is my partner in coding. I ask it questions, and it offers suggestions. It lets me think about new ways of doing things without having to scour StackOverflow or other example sites. This way, I can learn and explore new things much quicker than before. However, I still have to try out the suggestions and refine them when something doesn’t work right.
+<br /><br />
+Will AI eventually write and execute code? Maybe! Could it lessen the need for developers? Again, I’ll go with maybe! The truth is, we don’t know what is going to happen with AI and whether or not it will replace developers. However, I believe developers will adapt and excel where AI is lacking. Being a developer has never been just about writing code; it’s about understanding the context and why users need what they are asking for. I’m still on Team: Human!  I think building relationships and truly understanding our users is where we shine.
+<br /><br />
+One last thing to think about: governments rely heavily on taxes. While corporate taxes are significant (7%), income and payroll taxes make up 86% of tax revenue in the United States. Governments are probably already considering the economic impact of high unemployment due to AI. Companies might find it cheaper to keep people working and paying taxes instead of facing higher taxes to cover lost revenue from AI-driven job losses. It seems obvious that balancing technology and economic stability will be crucial for the future.
+<br /><br />
+The advice I’m going with: Don’t Panic!  Let’s see what happens.</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[HEADLINE: THE RISE OF AI IS HERE! All programmers will be replaced by AI!]]></summary></entry><entry><title type="html">Beyond the Code: Why fix something that works?</title><link href="http://localhost:4000/beyond/the/code/2024/01/25/why-fix-something.html" rel="alternate" type="text/html" title="Beyond the Code: Why fix something that works?" /><published>2024-01-25T12:00:00-07:00</published><updated>2024-01-25T12:00:00-07:00</updated><id>http://localhost:4000/beyond/the/code/2024/01/25/why-fix-something</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2024/01/25/why-fix-something.html"><![CDATA[<p>A project upgrade that I am responsible for is going live today! This was over a year of work. So many off hour <i>ah-ha!</i> moments and countless sleepless nights thinking, <i>How can I make this work?</i> I couldn’t have completed it without the support and effort of my team and management. They helped to bring it to the finish line and I’m thankful for them. I’m also very grateful for the opportunity to do (and complete) this project. It was rewarding and fulfilling work.
+<br /><br />
+This project didn’t go as planned as it was slated to be an upgrade of the framework it was written in, but it wound up being much more. This application is solid and well built. Yet, no matter how strong the application is, father time always wins. 
+<br /><br />
+Many stable and solid applications fall into the <b>“if it ain’t broke, don’t fix it”</b> adage. I’ve found myself saying this with a lot of applications that I’ve worked on in the past. <i>As solid as this application is, it deserves that level of respect that the adage brings with it. Why fix something that works?</i>
+<br /><br />
+Doing an upgrade like this prepares the product for the future. Yet it doesn’t offer the user anything tangible. It’s understandable why these types of upgrades are a challenge to prioritize. But to management’s credit, they did.
+<br /><br />
+Software is meant to be updated. But in my experience, it is never a question of <i>if</i> it will be updated; it’s always a matter of <i>when</i> it will be updated or rewritten. This experience will be my case study for the question: <b>“Is updating incrementally worth the cost now?”</b> My answer would be to ask a slightly different question: <b>“When you have to update it, what will it cost then?”</b></p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[A project upgrade that I am responsible for is going live today! This was over a year of work. So many off hour ah-ha! moments and countless sleepless nights thinking, How can I make this work? I couldn’t have completed it without the support and effort of my team and management. They helped to bring it to the finish line and I’m thankful for them. I’m also very grateful for the opportunity to do (and complete) this project. It was rewarding and fulfilling work. This project didn’t go as planned as it was slated to be an upgrade of the framework it was written in, but it wound up being much more. This application is solid and well built. Yet, no matter how strong the application is, father time always wins. Many stable and solid applications fall into the “if it ain’t broke, don’t fix it” adage. I’ve found myself saying this with a lot of applications that I’ve worked on in the past. As solid as this application is, it deserves that level of respect that the adage brings with it. Why fix something that works? Doing an upgrade like this prepares the product for the future. Yet it doesn’t offer the user anything tangible. It’s understandable why these types of upgrades are a challenge to prioritize. But to management’s credit, they did. Software is meant to be updated. But in my experience, it is never a question of if it will be updated; it’s always a matter of when it will be updated or rewritten. This experience will be my case study for the question: “Is updating incrementally worth the cost now?” My answer would be to ask a slightly different question: “When you have to update it, what will it cost then?”]]></summary></entry></feed>

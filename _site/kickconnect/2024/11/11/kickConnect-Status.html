@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Status of kickConnect | J:\V BLOG</title>
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Status of kickConnect" />
+<meta name="author" content="jeffvaccaro" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="kickConnect v.0.3(Alpha) The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)! I wanted an experience much like when I schedule meetings. I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar. There was A LOT of testing that when into this functionality. As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table). The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!" />
+<meta property="og:description" content="kickConnect v.0.3(Alpha) The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)! I wanted an experience much like when I schedule meetings. I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar. There was A LOT of testing that when into this functionality. As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table). The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!" />
+<link rel="canonical" href="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html" />
+<meta property="og:url" content="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html" />
+<meta property="og:site_name" content="J:\V BLOG" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-11-11T12:00:00-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Status of kickConnect" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"jeffvaccaro"},"dateModified":"2024-11-11T12:00:00-07:00","datePublished":"2024-11-11T12:00:00-07:00","description":"kickConnect v.0.3(Alpha) The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)! I wanted an experience much like when I schedule meetings. I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar. There was A LOT of testing that when into this functionality. As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table). The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!","headline":"Status of kickConnect","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html"},"url":"http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="J:\V BLOG" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">J:\V BLOG</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Status of kickConnect</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2024-11-11T12:00:00-07:00" itemprop="datePublished">
+        Nov 11, 2024
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="kickconnect-v03alpha">kickConnect v.0.3(Alpha)</h2>
+<p>The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)!  I wanted an experience much like when I schedule meetings.  I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar.  There was <b>A LOT</b> of testing that when into this functionality.  As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table).  The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!<br /></p>
+
+<p><img src="/assets/images/KC-Scheduler.png" alt="Scheduler Screenshot" /></p>
+
+<h4 id="testing-playwright">Testing: Playwright</h4>
+<p>As a developer I have used Selenium for regression testing. A while back I started to hear about Playwright.  I started looking at it last week and HOLY COW IT IS AMAZING!!!  And…  Super simple.  I’m still writing tests, but I can now say the kickConnect NOW HAS TESTS!  What I would like to do is write a test for every component that kickConnect has, then I want to write tests that will “SEED” the database for release purposes.  As the application gets bigger with more features the database is harder and harder to keep clean. So being able to truncate all the data out of the database and then have tests to re-add the data, all while testing to make sure everything works seems like a no brainer.</p>
+
+<h4 id="working-on-new-features">Working on NEW features</h4>
+<p>I’m working on 3 features right now!  Profiles, Shopify integration and HTML Template Customization.</p>
+
+<p>Profiles is the pre-cursor for the ability to really complete the circle of Events/Classes.  The system allows for the creation for Events, and as discussed above users can now “Schedule” those Events/Classes.  The last step is to “Assign” the Events/Classes to Profiles.</p>
+
+<p>Shopify Integration is in the infant stages of development.  But the idea is I want kickConnect to tie into the Shopify network for e-commerce capabilities.</p>
+
+<p>The last thing that I’m pretty stoked about is the HTML-Template customization.  One of the requirements I had early on for kickConnect is to allow the functionality to offer HTML Templates for small businesses to host.  This weekend I started work on that.  I’m very excited to show what capability soon!</p>
+
+<h3 id="whats-the-road-map">What’s the Road map…</h3>
+<p>-Profiles
+-Shopify
+-HTML-Template Customization
+-Component Management
+    - Ability to turn on and off components for users
+-Member Portal
+-Member Tables and Date Input
+-Importing existing data 
+-Phone Apps
+-Communication ability</p>
+
+<p>-AWS Architecture
+    - Lambdas
+    - API Gateway
+    - Containers
+    - Deployments</p>
+
+  </div><a class="u-url" href="/kickconnect/2024/11/11/kickConnect-Status.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="http://localhost:4000/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <ul class="contact-list">
+          <li class="p-name">jeffvaccaro</li>
+          <li><a class="u-email" href="mailto:jeff.vaccaro@gmail.com">jeff.vaccaro@gmail.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me:&lt;br&gt; **&quot;I&#39;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**&lt;br&gt; I&#39;m told that application was around for years before being retired!
+</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li>
+  <a rel="me" href="https://github.com/jeffvaccaro" target="_blank" title="github">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#github"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://www.linkedin.com/in/jeffvaccaro" target="_blank" title="linkedin">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://bsky.app/profile/webdad3.bsky.social" target="_blank" title="bluesky">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#bluesky"></use>
+    </svg>
+  </a>
+</li>
+</ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
