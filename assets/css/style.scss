@@ -1,12 +1,7 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@use "sass:color";
 
-@use "/_sass/minima/skins/dark.scss";
-@use "/_sass/minima/initialize";
-@use "/_sass/minima/skins/auto";
-
-// Custom styles
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";

@@ -1,3 +1,0 @@
-I"ß<h2 id="kickconnect-v03alpha">kickConnect v.0.3(Alpha)</h2>
-<p>The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)!  I wanted an experience much like when I schedule meetings.  I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar.  There was <b>A LOT</b> of testing that when into this functionality.  As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table).  The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!<br /></p>
-:ET
