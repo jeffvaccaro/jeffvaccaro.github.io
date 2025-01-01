@@ -28,7 +28,7 @@ description: >
   After I was done, I added what amounted to be a read.me:
   **"I'm sorry, but this is my 1st PAID application... You should probably rewrite it!"**
 
-  I'm told that application was around for years before being retired!
+  I'm told that application was around for years before finally being retired!
 
 # Build settings
 
@@ -81,7 +81,7 @@ future: true
 
 # SASS Configuration
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css
   style: compressed
 
 exclude:
@@ -93,3 +93,7 @@ exclude:
   - .jekyll-metadata
   - .jekyll-cache
   - .sass-cache
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

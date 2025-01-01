@@ -1,8 +1,10 @@
+---
+---
 @use "sass:color";
 
-@use "minima/skins/dark";
-@use "minima/initialize";
-@use "minima/skins/auto";
+@use "/_sass/minima/skins/dark.scss";
+@use "/_sass/minima/initialize";
+@use "/_sass/minima/skins/auto";
 
 // Custom styles
 body {
