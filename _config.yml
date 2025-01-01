@@ -78,3 +78,18 @@ minima:
 
 # Allow future-dated posts to be visible.
 future: true
+
+# SASS Configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - .bundle
+  - .jekyll-metadata
+  - .jekyll-cache
+  - .sass-cache
