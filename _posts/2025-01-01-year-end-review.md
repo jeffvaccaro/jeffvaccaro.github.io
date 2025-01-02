@@ -5,7 +5,7 @@ date:   2025-01-01 12:00:00 -0700
 categories: Beyond the Code
 ---
 
-As you may have heard... I was laid off in 2024. I'm kidding, not because it isn't true, but because I was very loud about it! Getting laid off was not on my 2024 bingo card. When it first happened, as you know, I went through a wide range of emotions. Now that life has settled down for the moment, I have some time to reflect on 2024.
+As you may have heard... I was laid off in 2024. I'm kidding, not because it isn't true, but because I was very loud about it! Getting laid off was not on my 2024 bingo card. When it first happened, I went through a wide range of emotions. Now that life has settled down for the moment, I have some time to reflect on 2024.
 
 It was exactly one year ago today that I created my first **React** application in hopes of preparing for the new direction that my former company was going. I was pretty stoked about it! I didn't realize what the infant 2024 had in store for me at that time, but it started a chain reaction of things that I was not expecting.
 
@@ -21,6 +21,6 @@ I owe that little React app a great deal of thanks. **It gave me confidence, and
 
 Today, I am right where I'm supposed to be. I'm at a new company, in a new position. There are challenges that I've never faced before, but I wake up every day excited to try to solve those issues. I work with people that I learn from on a daily basis, and I feel honored and grateful to be where I'm at. I am enjoying the process of building something new and exciting but from a totally different perspective than where I've spent the majority of my career.
 
-On 1/1/24, there was a certain level of uncertainty and some fear. On 1/1/25, there is still uncertainty (of course), but no fear and that is huge difference!
+On 1/1/24, there was a certain level of uncertainty and some fear. On 1/1/25, there is still uncertainty (of course), but much less fear and that is huge difference!
 
-Happy 2025!
+**Happy 2025!**
