@@ -16,7 +16,7 @@ KickConnect needs an app to go along with the website. Some would argue that the
 
 The following video is the beginning of that app. I did a little research, and it really came down to React Native, Ionic, and Flutter. I have serious issues with React. **It's dumb I know**, but the fact is I'm never going to choose React. I chose Flutter because it wasn't Facebook, and I'm firmly in Team Google's camp. **I also realize** this could be another repeat of my allegiance to Microsoft from years ago. However, my first couple of weeks with Flutter have been really entertaining. I'm not an expert in it (yet), but I can see why people like it!
 
-My app right now is really simple. Login Screen (using my KickConnect API), then a Main screen that displays the logged in user information and the classes/events already based by location (again using the API). It's *** SUPER SIMPLE *** and covers about 80% of what I'm envisioning for the public side of KickConnect. I'm sure this will grow and become more refined. I'm still learning the basics, but icons and color scheming are up next.
+My app right now is really simple. Login Screen (using my KickConnect API), then a Main screen that displays the logged in user information and the classes/events already based by location (again using the API). It's <b>SUPER SIMPLE</b> and covers about 80% of what I'm envisioning for the public side of KickConnect. I'm sure this will grow and become more refined. I'm still learning the basics, but icons and color scheming are up next.
 
 Enjoy my 1st mobile app since about 2015!
 
