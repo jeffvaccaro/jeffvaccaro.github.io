@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing..."
-date:   2025-02-22 12:00:00 -0700
+date:   2025-02-23 08:00:00 -0700
 categories: kickconnect, windows phone, flutter
 ---
 
