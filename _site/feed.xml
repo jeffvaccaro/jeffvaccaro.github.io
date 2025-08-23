@@ -1,69 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-23T15:14:59-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">J:\V BLOG</title><subtitle>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me: **&quot;I&apos;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-23T16:04:59-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">J:\V BLOG</title><subtitle>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me: **&quot;I&apos;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**
 I&apos;m told that application was around for years before finally being retired!
-</subtitle><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><entry><title type="html">Beyond the Code: IsFullStackDead == False</title><link href="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html" rel="alternate" type="text/html" title="Beyond the Code: IsFullStackDead == False" /><published>2025-08-23T09:00:00-06:00</published><updated>2025-08-23T09:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html"><![CDATA[<h3 id="beyond-the-code-isfullstackdead--false">Beyond the Code: IsFullStackDead == False</h3>
-<p>I’ve been a developer since 1997 or 1998, officially. I graduated with a Computer Information Systems degree. My first job out of college wasn’t a programmer position. I was a Quality Assurance tester. It was an OK first job, and I was genuinely happy to have it. I saw it as a stepping stone to eventually becoming a programmer.</p>
+</subtitle><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><entry><title type="html">Beyond the Code: IsFullStackDead == False</title><link href="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html" rel="alternate" type="text/html" title="Beyond the Code: IsFullStackDead == False" /><published>2025-08-23T09:00:00-06:00</published><updated>2025-08-23T09:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html"><![CDATA[<p>Apparently, Full Stack Devs are “outdated.” That’s news to me.</p>
+
+<p>I’ve been doing this since the browser wars, when debugging meant praying your code worked in both Netscape and Internet Explorer. I started in QA, taught myself VB5, and built my first paid app to automate my own job.</p>
+
+<p>Now I mentor junior devs who are still figuring out where the semicolons go. Meanwhile, I’m navigating cloud native architectures, microservices, and AI tools that hallucinate their way through boilerplate.</p>
+
+<p>And somehow, the role that connects it all is being questioned.</p>
+
+<p>This post is part reflection, part reality check, and part reminder that Full Stack Devs are still here, still building, and still the ones who understand how it all fits together.</p>
+
+<hr />
+
+<h2 id="the-origin-story">The Origin Story</h2>
+
+<p>I’ve been a developer since around 1997, officially. I graduated with a Computer Information Systems degree. My first job out of college wasn’t a programmer position. I was a Quality Assurance tester. It was an OK first job, and I was genuinely happy to have it. I saw it as a stepping stone to eventually becoming a programmer.</p>
 
 <p>One day, my manager at the time, Pat, asked me what I wanted to do in my career. I told him I wanted to be a programmer. He said, “Come with me.” That day, he took me to a giant bookstore and bought me three programming books. One of them was a VB5 book. That book was the catalyst for my journey into professional programming.</p>
 
 <p><img src="/assets/images/VB5Book.png" alt="Developer's Guide Visual Basic 5" /></p>
 
-<p>I dove right in, and after just a few chapters, I was already building my first paid application. The idea? Automate my QA job. It was a VB5 desktop app connected to an Access database. That was my first foray into becoming a Full Stack Developer, and it was such a rush. There was something magical about the creation process. From the spark of an idea to the problem solving and research, and then the testing and fine tuning. And when all of that was done, my creation was alive.</p>
+<p>I dove right in, and after just a few chapters, I was already building my first paid application. The idea? Automate my QA job. It was a VB5 desktop app connected to an Access database. That was my first foray into becoming a Full Stack Dev, and it was such a rush. There was something magical about the creation process. From the spark of an idea to the problem solving and research, and then the testing and fine tuning. And when all of that was done, my creation was alive.</p>
 
-<h2 id="the-long-game">The Long Game</h2>
+<p>Fast forward more than 25 years and I’m still working as a Full Stack Dev (my role has shifted recently, but I’ll share more about those lessons another time).</p>
 
-<p>Fast forward more than 25 years, and I’m still working as a Full Stack Dev (not as true as it was when I started this post, we will dive into that another time). I never would have guessed that my entire adult life would be one long, continuous learning experience. To stay current, you have to keep learning. It’s a constant challenge to stay sharp with the tech you’re using while also keeping an eye on what’s next. And when you finally switch to that new thing, the cycle starts all over again.</p>
+<p>I never would have guessed that my entire adult life would be one long, continuous learning experience. To stay current, you have to keep learning. It’s a constant challenge to stay sharp with the tech you’re using while also keeping an eye on what’s next. And when you finally switch to that new thing, the cycle starts all over again.</p>
 
-<p>Recently, I had a conversation about whether the Full Stack Developer is outdated. Honestly, I was perplexed. How could that be? In my mind, the Full Stack Dev is the most important position in all of programming. But it did make me pause and ask, “Am I outdated?”</p>
+<hr />
 
 <h2 id="a-look-back">A Look Back</h2>
 
 <p>Back when I was coming up, there weren’t many options. You were either doing just HTML or you were doing everything else and HTML. Anyone remember the browser wars in the late 90s? I do. Back then, you had to write code that worked in Netscape and Internet Explorer and hope it didn’t break in one or both.</p>
 
-<p>It was a simpler time, but also a bit chaotic. Everything was more tightly coupled back then. You had to be flexible, troubleshoot across layers, and build with whatever tools you had. That mindset stuck with me.</p>
+<p>It was a simpler time, but also a bit chaotic. Everything was more tightly coupled back then. You had to be flexible, troubleshoot across layers, and build with whatever tools you had. A lot was done in Notepad (before the tabbed versions).</p>
 
-<h2 id="the-stack-today">The Stack Today</h2>
-
-<p>Sure, we’ve got more frameworks and languages now, but the core of web development hasn’t changed. What has changed is the complexity of the stack. Today, we’re not just talking about HTML, CSS, and SQL. We’re navigating microservices, CI/CD pipelines, container orchestration, and cloud native architectures. There is just so much more to know now.</p>
+<p>Sure, we’ve got more frameworks and languages now, as well as way better tools, but the core of web development hasn’t changed. What has changed is the complexity of the stack. Today, we’re not just talking about HTML, CSS, and SQL. We’re navigating microservices, CI/CD pipelines, container orchestration, and cloud native architectures. There is just so much more to know now.</p>
 
 <p>People who specialize in specific areas are really good at what they do. They know everything about their topic. As a Full Stack Dev, I know I’m not as deep in any one area, but I’ve been exposed to enough that I can understand the concepts, look up what I need, and implement it.</p>
 
+<hr />
+
 <h2 id="the-superpower">The Superpower</h2>
 
-<p>That idea that Full Stack Devs are outdated worried me for a bit. But then I realized our superpower is that we’re basically multilingual. We can work on the front end, move to the middle, and then dive into the database. We understand the full picture better than someone who specializes in just one area. And we can communicate across disciplines. We can talk to the UI and UX folks, the DBAs, the backend engineers, and actually speak their language.</p>
+<p>That idea that Full Stack Devs are outdated worried me for a bit. But then I remembered what makes us different. Our superpower is fluency across the stack.</p>
+
+<p>We build the interface, shape the logic, and connect the data. We understand how decisions in one area affect the rest. We move between frontend quirks, backend constraints, and business goals with clarity and purpose.</p>
+
+<p>We also communicate across disciplines. We talk to UI and UX designers, DBAs, backend engineers, and product owners. We speak their language and understand their priorities. That is not just versatility. That is what makes us valuable.</p>
 
 <p>I say all of this with the utmost respect to people who specialize. There’s a reason why you’re here. Your depth of knowledge is what makes systems scalable, secure, and performant. You’re the ones who push the boundaries of what’s possible in your domain. And when I hit a wall in one of those areas, I’m grateful there’s someone who knows it inside and out.</p>
 
-<p>But that’s exactly why Full Stack Devs matter too. We’re the glue. We’re the ones who can see across the silos, connect the dots, and help teams move faster because we understand how the pieces fit together. We may not go as deep in every area, but we know how to navigate between them, ask the right questions, and build bridges where others might hit friction.</p>
+<p>But that’s exactly why Full Stack Devs matter. We’re the glue. We see across teams, connect the dots, and help projects move faster because we understand how the pieces fit together. We may not go as deep in every area, but we know how to move between them, ask the right questions, and build bridges where others might hit friction.</p>
 
 <p>It’s not about being better or worse. It’s about being complementary. Specialists go deep. Full Stack Devs go wide. And when those two strengths work together, that’s when the real magic happens.</p>
 
+<hr />
+
 <h2 id="the-age-of-ai">The Age of AI</h2>
 
-<p>So what happens to the Full Stack Dev in the age of AI?</p>
+<p>These days, being a Full Stack Dev means more than writing code. We are not just building features. We are figuring out how everything fits together. We know how to work with AI tools, how to ask the right questions, and how to tell when the answers from AI need a second look.</p>
 
-<p>In my view, the Full Stack Dev isn’t just a coder anymore. We’re strategic integrators. We understand how the pieces fit together, how to prompt AI tools effectively, and how to validate and refine what those tools produce. We’re not just writing code. We’re orchestrating solutions.</p>
+<p>It is not about handing off tasks to a machine. It is about knowing what to delegate, what to double check, and how to guide the process. We are still solving problems. We are just doing it with new tools and a wider lens.</p>
 
-<h3 id="prompt-engineering-becomes-a-core-skill">Prompt engineering becomes a core skill</h3>
+<hr />
 
-<p>Knowing how to ask the right questions of AI tools is just as important as knowing how to write a SQL query or debug a JavaScript function. But knowing how to write the query or debug the JavaScript is still essential. When AI gives you an answer, you need the technical fluency to assess its validity, spot edge cases, and refine the output.</p>
+<h2 id="prompt-engineering-becomes-a-core-skill">Prompt engineering becomes a core skill</h2>
 
-<h3 id="contextual-awareness-is-king">Contextual awareness is king</h3>
+<p>Knowing how to ask the right questions of AI tools is just as important as knowing how to write a SQL query or debug a JavaScript function. But knowing how to write the query or debug the JavaScript is still essential. When AI gives you an answer, you need the technical know-how to assess its validity, spot edge cases, and refine the output.</p>
+
+<hr />
+
+<h2 id="contextual-awareness-is-king">Contextual awareness is king</h2>
 
 <p>Full Stack Devs thrive by understanding the why behind each layer. Why the UI matters to users. Why the API needs to scale. Why the database schema affects performance. But it goes deeper than that. We design interfaces with user awareness. It’s not just about layout or responsiveness. It’s about anticipating user expectations, minimizing friction, and creating intuitive flows that build trust. We understand how a loading spinner’s timing affects perceived performance, how a form’s structure influences completion rates, and how visual hierarchy guides decision making.</p>
 
-<h3 id="mentorship-deepens-the-craft">Mentorship deepens the craft</h3>
+<hr />
 
-<p>Contextual awareness isn’t just a personal skill. It’s something we pass on. When mentoring junior developers, teaching them to ask “why” is foundational. Why are we choosing this framework? Why does this query need optimization? Why does this feature matter to the user? Encouraging curiosity and critical thinking helps them grow beyond syntax and into systems thinking. It’s how we cultivate judgment, not just knowledge, and ensure the next generation builds with purpose.</p>
+<h2 id="mentorship-deepens-the-craft">Mentorship deepens the craft</h2>
 
-<h3 id="collaboration-gets-smarter">Collaboration gets smarter</h3>
+<p>Contextual awareness is not just something you pick up for yourself. It is something you pass on. When I mentor junior devs, I always push them to ask why. Why are we using this framework? Why does this query need to be faster? Why does this feature even matter to the user?</p>
 
-<p>With AI handling boilerplate and repetitive tasks, Full Stack Devs can shift focus toward architecture, communication, and cross functional alignment. We become translators between business goals and technical execution. We guide teams through ambiguity, ensure coherence across layers, and elevate the conversation from what should we build to why does it matter.</p>
+<p>Asking why helps them move beyond just writing code. It gets them thinking about how things fit together and why decisions matter. That is how you build judgment, not just knowledge. And that is how you help the next generation build with purpose.</p>
 
-<h2 id="the-future-is-not-deprecated">The Future Is Not Deprecated</h2>
+<hr />
 
-<p>Sure, specialization is rising. But Full Stack Devs aren’t going extinct. The Full Stack Dev is evolving. We’re becoming the connective tissue between specialized roles. We’re the ones who can translate between frontend quirks, backend constraints, and business goals. That’s not outdated. That’s indispensable.</p>
+<h2 id="collaboration-gets-smarter">Collaboration gets smarter</h2>
 
-<p>And let’s be honest. When the AI breaks, when the integration fails, when the edge case hits… who do you call? The person who understands all the parts.</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[Beyond the Code: IsFullStackDead == False I’ve been a developer since 1997 or 1998, officially. I graduated with a Computer Information Systems degree. My first job out of college wasn’t a programmer position. I was a Quality Assurance tester. It was an OK first job, and I was genuinely happy to have it. I saw it as a stepping stone to eventually becoming a programmer.]]></summary></entry><entry><title type="html">Introducing…</title><link href="http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile.html" rel="alternate" type="text/html" title="Introducing…" /><published>2025-02-23T08:00:00-07:00</published><updated>2025-02-23T08:00:00-07:00</updated><id>http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile</id><content type="html" xml:base="http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile.html"><![CDATA[<h3 id="introducing-kickconnect-mobile-v1">Introducing KickConnect Mobile v1</h3>
+<p>With AI handling the boilerplate and repetitive tasks, Full Stack Devs can shift focus to architecture, communication, and how everything connects across the stack.</p>
+
+<p>We help translate business goals into technical decisions. We guide teams through the messy parts, keep things aligned, and move the conversation from what are we building to why does it matter.</p>
+
+<hr />
+
+<h2 id="still-here">Still Here</h2>
+
+<p>We are still here. Still building. Still the ones who understand how it all fits together.</p>
+
+<p>Specialization is growing, and that is a good thing. But Full Stack Devs are not going anywhere. We are evolving. We are becoming the connectors. The ones who can move between frontend quirks, backend constraints, and business goals without losing the thread.</p>
+
+<p>That is not outdated. That is essential. And honestly, it sounds like we need a raise.</p>
+
+<p>And let’s be real. When the AI breaks, when the integration fails, when the edge case shows up out of nowhere, who do you call? The person who understands all the parts.</p>
+
+<hr />
+
+<h2 id="call-to-action">Call to Action</h2>
+
+<p>If you’ve ever worn the Full Stack hat or wondered if it still fits, I’d love to hear your story. How has your role evolved and where do you see it heading next? Let’s keep the conversation going.</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="Beyond" /><category term="the" /><category term="Code" /><summary type="html"><![CDATA[Apparently, Full Stack Devs are “outdated.” That’s news to me.]]></summary></entry><entry><title type="html">Introducing…</title><link href="http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile.html" rel="alternate" type="text/html" title="Introducing…" /><published>2025-02-23T08:00:00-07:00</published><updated>2025-02-23T08:00:00-07:00</updated><id>http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile</id><content type="html" xml:base="http://localhost:4000/kickconnect,/windows/phone,/flutter/2025/02/23/kickconnect-mobile.html"><![CDATA[<h3 id="introducing-kickconnect-mobile-v1">Introducing KickConnect Mobile v1</h3>
 <p>It’s alive!</p>
 
 <p>Story time… A long time ago, I thought the pinnacle of being a software developer was being a mobile developer. Microsoft had just released their new Windows Phone, and I was in LOVE with this device. All the Apple products out there (at the time) made me sick. They were SO boring! And they were really just status symbols in my opinion. Of course, I thought Microsoft was on to something. So I started to develop my first app and thus began my journey to the top of the software development career path! I won’t go into all the details, however, I created about 6 mobile apps, but my first app (MyOilChange) was my most popular, and I still have a fondness for it even today.</p>
