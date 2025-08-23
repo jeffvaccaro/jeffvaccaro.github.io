@@ -4,8 +4,6 @@ title:  "Beyond the Code: IsFullStackDead == False"
 date:   2025-08-23 08:00:00 -0700
 categories: Beyond the Code
 ---
-# Beyond the Code: IsFullStackDead == False
-
 Apparently, Full Stack Devs are “outdated.” That’s news to me.
 
 I’ve been doing this since the browser wars, when debugging meant praying your code worked in both Netscape and Internet Explorer. I started in QA, taught myself VB5, and built my first paid app to automate my own job.
