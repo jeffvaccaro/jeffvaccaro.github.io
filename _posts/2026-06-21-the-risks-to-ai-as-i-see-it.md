@@ -2,7 +2,8 @@
 layout: post
 title: "The risks to AI as I see it"
 date: 2026-06-21 10:00:00 -0700
-categories: general
+categories: [general, ai, leadership]
+tags: [automation, engineering-management, economics, security, vendor-lock-in]
 ---
 
 Everyone is asking what AI will do *to us*. Almost no one is asking what we’re doing *to AI* , and the risks we’re creating as we rush head-first into automation. I’ve leaned heavily into AI myself, and I’ll say the quiet part out loud: the version of software engineering we grew up with is gone. Something new is emerging, and it’s moving faster than most organizations can absorb.
