@@ -5,26 +5,65 @@ date: 2026-06-21 10:00:00 -0700
 categories: general
 ---
 
-There is no shortage of headlines celebrating how fast AI can write code. I've personally leaned into AI and I will admit, software engineering as it used to be is at the minimum changing, but in reality it is dead. It is easy to get caught up in the hype, and there is no shortage of the nay-sayers to AI as well. As always, the truth lays in the middle. Something that I've been thinking about is, "What are the risks to AI?" 
+# The Risks *to* AI as I See It
+**June 21, 2026**
 
-## The Economic Domino Effect: Taxes and the Blue-Collar Illusion
+Everyone is asking what AI will do *to us*. Almost no one is asking what we’re doing *to AI* , and the risks we’re creating as we rush head-first into automation. I’ve leaned heavily into AI myself, and I’ll say the quiet part out loud: the version of software engineering we grew up with is gone. Something new is emerging, and it’s moving faster than most organizations can absorb.
 
-I'm not an economics professional, but it is easy to see the headlines of "Will AI take your job?" From what I've seen of it, Yes is the answer. Now there are arguments about AI just being like the industrial revolution and new jobs spawned from the replaced jobs. I would like to believe that, but I don't know how long that takes. The AI adoption rate seems to be moving a lot faster than cars replacing horse and buggies. 
+As I watch this transition unfold from inside an engineering leadership role, three risks stand out.
 
-The biggest risk I see with widespread automation is the long-term strain it places on how our system actually runs. Think about it: governments rely on people to work and pay payroll taxes. If white-collar positions get aggressively laid off because companies lean too hard into automation, that massive tax revenue stream dries up. While people talk about policy-level ideas like Universal Basic Income (UBI) to fix this, that is a massive government problem.
+---
 
-There is also a very common argument right now that "blue-collar" jobs are completely safe because AI can't swing a hammer or fix a pipe. But that ignores basic economics. White-collar employees pay for blue-collar services. If high-earning corporate jobs dry up, the demand for renovations, premium contracting, and local trade work decreases right along with them. On top of that, how many of those newly unemployed office workers are going to head to trade schools to learn a skill? A sudden influx of labor into a shrinking market will naturally drive down the overall price and stability of blue-collar work. Everything is connected.
+## 1. The Economic Domino Effect  
+### *Taxes, Labor Shifts, and the Blue-Collar Illusion*
 
-## The First-Quarter Budget Burn Paradox
+There’s a lot of debate about whether AI will “take your job.” From what I’ve seen, the honest answer is yes , at least for a significant portion of white-collar roles. The adoption curve is nothing like the industrial revolution. This is happening in quarters, not decades.
 
-I am noticing a massive business vulnerability: total vendor lock-in paired with unmonitored spending. We are constantly reading stories about companies burning through their entire annual AI budgets by the first quarter of the year because they leaned in so fast without calculating token and compute costs at scale. The deeper danger is that entire industries are building software that is essentially just a wrapper or a shell around a single dominant foundation model, like Claude. When an entire vertical becomes fundamentally reliant on one engine to function, they cede all their pricing power. If that tool jacks up its price for use, everyone is forced to pay those high prices because they have no architectural alternative. You are trapped in a brutal squeeze between massive margin loss or passing skyrocketing costs onto clients who are already tightening their belts.
+The deeper risk isn’t just job loss. It’s the structural strain on the systems that keep society running. Governments rely heavily on payroll taxes from high-earning knowledge workers. If companies aggressively automate those roles, that revenue evaporates. Policy ideas like UBI sound clean on paper, but the fiscal gap they’d need to fill is enormous.
 
-## Security
+There’s also a popular belief that blue-collar jobs are “safe” because AI can’t swing a hammer. But that ignores basic economics. White-collar workers fund blue-collar demand. If a $180k PM loses their job, they’re not remodeling their kitchen. Multiply that across an industry and you get:
 
-The final immediate risk is security. Bad actors don't wait for board approval, compliance meetings, or lengthy vendor audit cycles. They are already using AI to automate the discovery of system flaws at a pace human IT teams can't match. Some industries will be completely security-focused, but many will not. The risk isn't just with the highly regulated, multi-layered spaces that treat data like gold. The danger is with mid-market organizations or teams rushing to implement AI tools to chase speed without setting up strict data boundaries or code verification. Rushing unverified, AI-generated code to production means it's only a matter of time before a bad actor finds the weak link and exploits it.
+* **Less demand** for contracting and skilled trades  
+* **A sudden influx** of laid-off workers entering trade schools  
+* **Oversupply** in a shrinking market  
+* **Downward pressure** on wages and stability  
+
+Everything is connected. When one tier collapses, the others feel it.
+
+---
+
+## 2. The First-Quarter Budget Burn  
+### *Vendor Lock-In and Unmonitored AI Spend*
+
+A pattern is emerging across the industry: companies burn through their entire annual AI budget by Q1 because they scaled too fast without understanding token and compute economics.
+
+The bigger danger is architectural. Entire verticals are building products that are essentially wrappers around a single foundation model. When your business depends on one engine (Claude, GPT, Gemini, whatever), you’ve surrendered all pricing power. If that provider raises prices, you either:
+
+* **Eat the margin loss**, or  
+* **Pass the cost** to customers who are already tightening budgets  
+
+That’s not a strategy. That’s a trap. Vendor lock-in isn’t new, but the speed and depth of dependency in the AI era is unprecedented. Companies are building on sand without realizing it.
+
+---
+
+## 3. Security at AI Speed  
+### *Bad Actors Don’t Wait for Governance*
+
+Security teams move on quarterly roadmaps. Attackers move on minutes.
+
+Bad actors are already using AI to automate vulnerability discovery at a pace human teams can’t match. The organizations most at risk aren’t the highly regulated giants , they have guardrails, audits, and paranoia baked in. The danger is in the mid-market:
+
+* **Boundary Issues:** Teams rushing AI into production without data boundaries  
+* **Data Leaks:** Shadow-AI usage leaking sensitive information  
+* **Lack of Audits:** AI-generated code deployed without verification  
+* **Exploit Mutation:** Attackers using LLMs to mutate exploits faster than patch cycles  
+
+The weakest link won’t be a Fortune 100. It’ll be the company that adopted AI for speed without adopting the security discipline to match it.
+
+---
 
 ## Looking Forward
 
-I don't have the answer on the Taxes section. Hopefully there are smart people out there looking at this and figuring out how this is all going to play out. But as a engineering leader I do have some burgeoning insights into how to manage this incredible velocity of work that is being generated and how to keep engineering teams in-tact all the while moving the software forward. Spoiler-alert, I'm busier than ever. Which probably means there is a tool that needs to be dreamed of to help with this.
+I don’t pretend to have the macro-economic answers. But I do see the operational reality up close: AI is accelerating the volume of work, not reducing it. Leading an engineering team through this transition has made one thing clear: we need new tools, new processes, and new ways of thinking to manage the velocity we’ve unleashed.
 
-This might be a 2 or 3 part series on what I'm finding as I navigate the AI realities of managing a team of devs through this AI transition.
+This will likely become a multi-part series as I continue mapping what’s breaking, what’s working, and what leaders need to prepare for as AI reshapes the industry in real time.
