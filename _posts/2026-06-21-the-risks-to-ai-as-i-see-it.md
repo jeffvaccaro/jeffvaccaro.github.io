@@ -11,6 +11,9 @@ As I watch this transition unfold from inside an engineering leadership role, th
 
 ---
 
+## 1. The Economic Domino Effect
+### *Taxes, Labor Shifts, and the Blue-Collar Illusion*
+
 There’s a lot of debate about whether AI will “take your job.” From what I’ve seen, the honest answer is yes , at least for a significant portion of white-collar roles. The adoption curve is nothing like the industrial revolution. This is happening in quarters, not decades.
 
 The deeper risk isn’t just job loss. It’s the structural strain on the systems that keep society running. Governments rely heavily on payroll taxes from high-earning knowledge workers. If companies aggressively automate those roles, that revenue evaporates. Policy ideas like UBI sound clean on paper, but the fiscal gap they’d need to fill is enormous.
