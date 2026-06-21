@@ -1,4 +1,9 @@
-# The Risks to AI As I See It
+---
+layout: post
+title: "The risks to AI as I see it"
+date: 2026-06-21 10:00:00 -0700
+categories: general
+---
 
 There is no shortage of headlines celebrating how fast AI can write code. I've personally leaned into AI and I will admit, software engineering as it used to be is at the minimum changing, but in reality it is dead. It is easy to get caught up in the hype, and there is no shortage of the nay-sayers to AI as well. As always, the truth lays in the middle. Something that I've been thinking about is, "What are the risks to AI?" 
 
