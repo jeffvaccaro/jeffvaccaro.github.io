@@ -5,17 +5,11 @@ date: 2026-06-21 10:00:00 -0700
 categories: general
 ---
 
-# The Risks *to* AI as I See It
-**June 21, 2026**
-
 Everyone is asking what AI will do *to us*. Almost no one is asking what we’re doing *to AI* , and the risks we’re creating as we rush head-first into automation. I’ve leaned heavily into AI myself, and I’ll say the quiet part out loud: the version of software engineering we grew up with is gone. Something new is emerging, and it’s moving faster than most organizations can absorb.
 
 As I watch this transition unfold from inside an engineering leadership role, three risks stand out.
 
 ---
-
-## 1. The Economic Domino Effect  
-### *Taxes, Labor Shifts, and the Blue-Collar Illusion*
 
 There’s a lot of debate about whether AI will “take your job.” From what I’ve seen, the honest answer is yes , at least for a significant portion of white-collar roles. The adoption curve is nothing like the industrial revolution. This is happening in quarters, not decades.
 
