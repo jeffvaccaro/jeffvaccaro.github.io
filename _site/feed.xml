@@ -1,6 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-23T16:20:20-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">J:\V BLOG</title><subtitle>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me: **&quot;I&apos;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-21T18:44:11-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">J:\V BLOG</title><subtitle>**Fun Fact:** My 1st job out of college was being QA! My 1st paid app as a developer was to automate my QA job! After I was done, I added what amounted to be a read.me: **&quot;I&apos;m sorry, but this is my 1st PAID application... You should probably rewrite it!&quot;**
 I&apos;m told that application was around for years before finally being retired!
-</subtitle><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><entry><title type="html">Beyond the Code: IsFullStackDead == False</title><link href="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html" rel="alternate" type="text/html" title="Beyond the Code: IsFullStackDead == False" /><published>2025-08-23T09:00:00-06:00</published><updated>2025-08-23T09:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html"><![CDATA[<p>Apparently, Full Stack Devs are “outdated.” That’s news to me.</p>
+</subtitle><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><entry><title type="html">Conductor of Chaos</title><link href="http://localhost:4000/general/ai/leadership/2026/06/21/conductor-or-chaos-leading-a-dev-team-past-the-ai-velocity-trap.html" rel="alternate" type="text/html" title="Conductor of Chaos" /><published>2026-06-21T12:00:00-06:00</published><updated>2026-06-21T12:00:00-06:00</updated><id>http://localhost:4000/general/ai/leadership/2026/06/21/conductor-or-chaos-leading-a-dev-team-past-the-ai-velocity-trap</id><content type="html" xml:base="http://localhost:4000/general/ai/leadership/2026/06/21/conductor-or-chaos-leading-a-dev-team-past-the-ai-velocity-trap.html"><![CDATA[<h2 id="leading-dev-teams-past-the-ai-velocity-trap">Leading Dev Teams Past the AI Velocity Trap</h2>
+
+<p>In my last post, I talked about the macro risks of the sudden AI transition, including the economic dominoes, the Q1 budget burns, and security moving at breakneck speed. But once you accept those risks, you’re left with a more immediate operational reality:</p>
+
+<p>The macro risks matter, but the day-to-day reality is where leaders are getting crushed.</p>
+
+<p>What does it actually feel like to lead an engineering team when the old playbook has been set on fire?</p>
+
+<p>It feels like relentless, non-stop pressure to keep the ball moving forward.</p>
+
+<p>Marc Andreessen recently described the idea of the “AI Vampire,” and it perfectly captures what’s happening inside engineering teams right now. AI hasn’t reduced our workload; it has stripped away the natural, human-paced pauses we used to rely on.</p>
+
+<p>In the past, writing software had built-in breathing room. You wrote code line by line, waited for builds, or spent days whiteboarding a problem. That structural framework gave developers time to process their work.</p>
+
+<p>AI completely drains that framework. When an assistant can generate an entire architectural layout or hundreds of lines of code in three seconds, the downtime vanishes. Our workload hasn’t shrunk; it has shifted from a slow creative process to a non-stop game of cognitive triage. We are no longer just writing code, we are managing a relentless firehose of machine-generated execution.</p>
+
+<p>And that velocity is creating a generational and experiential divide inside engineering teams.</p>
+
+<hr />
+
+<h2 id="the-two-velocities-juniors-overwhelmed-veterans-overcautious">The Two Velocities: Juniors Overwhelmed, Veterans Overcautious</h2>
+
+<p>Early-career developers are feeling the strain of this pace. In industry circles, you hear a lot of anxiety from junior talent who feel like the organization is simply moving too fast. When velocity explodes, my perspective is simple: you don’t slow down to catch your bearings, you accelerate into the curve.</p>
+
+<p><strong>We have to combat AI with more AI.</strong></p>
+
+<p>That doesn’t mean letting the machine run on autopilot. Doing things blindly is NEVER the answer, and human intervention remains 100% necessary. Instead, it means teaching developers to strategically lean on AI to build out robust test suites, generate boilerplate, and clear away early development hurdles. We use the tools to compress the timeline so we can reach the first mile marker of the plan as fast as possible, while keeping our engineering judgment firmly in the driver’s seat.</p>
+
+<p>On the other side of the aisle, veteran developers, who have spent decades watching rushed architecture collapse, are looking at this toolset with deep caution. Their instinct is to pull back on the reins.</p>
+
+<p>Across the industry, leaders are experiencing back-to-back 1:1s where one perspective says “this is too fast” and the next says “we’re moving recklessly.” That’s the classic velocity divide.</p>
+
+<p>So the leadership challenge becomes a balancing act:</p>
+
+<ul>
+  <li>Help less experienced devs manage the anxiety of pure velocity</li>
+  <li>Encourage senior devs to loosen their grip and trust the tools enough to lean in</li>
+</ul>
+
+<p>Both groups are right. Both groups are wrong. And both groups need different coaching to operate effectively in this new environment.</p>
+
+<hr />
+
+<h2 id="the-tooling-crisis-when-agile-breaks-under-ai">The Tooling Crisis: When Agile Breaks Under AI</h2>
+
+<p>This level of velocity creates an immediate crisis for engineering workflows. Traditional Agile, including rigid two-week sprints, meticulously groomed Jira tickets, and predictable scope, is buckling under the pressure.</p>
+
+<p>These systems were built for a world where humans wrote code line-by-line and where project managers could forecast work over a fortnight. That world is gone.</p>
+
+<p>When a developer using AI can blast through a week’s worth of sprint tickets by Tuesday afternoon, the process becomes an administrative bottleneck.</p>
+
+<p>Many leadership teams are experimenting with Kanban to better visualize the work dynamically. But Kanban introduces its own challenges when the volume of tasks is exploding. Tracking a fluid, hyper-accelerated pipeline without losing control of the architectural narrative is a constant battle.</p>
+
+<p>The truth is uncomfortable but clear: AI breaks any workflow designed around human-bounded throughput. We’re all rebuilding the plane while flying it.</p>
+
+<hr />
+
+<h2 id="orchestrating-multiple-orchestras">Orchestrating Multiple Orchestras</h2>
+
+<p>How do you keep a team aligned when the ground is constantly shifting?</p>
+
+<p>It requires a fundamental shift in leadership strategy. Every developer must own a highly distinct, hyper-defined piece of the master plan. There is no room for passive passengers or developers waiting to be handed a ticket. Everyone must know exactly what section of the architecture they are responsible for executing.</p>
+
+<p>Crucially, velocity cannot come at the expense of safety. To handle this speed, it helps to enforce a rigorous collective review process for all AI-generated plans and code, ensuring human eyes audit the machine. Gating the foundation to keep it secure, such as ensuring specific database experts review all database-related code before it touches production, is essential.</p>
+
+<p>The leadership role transforms. It’s less about task management or code review and more like conducting multiple orchestras simultaneously.</p>
+
+<p>You have:</p>
+<ul>
+  <li>The backend orchestra playing at maximum volume</li>
+  <li>The AI-integration section moving at lightning speed</li>
+  <li>The data-reasoning agents stitching everything together in the corner</li>
+</ul>
+
+<p>If they aren’t synchronized, the result isn’t music, it’s chaos.</p>
+
+<p>Survival in this new era requires a non-stop commitment to organization and high-frequency communication. Leaders have to step back, see the entire stadium, and ensure that the velocity we’ve unleashed is actually driving toward a unified strategic goal.</p>
+
+<hr />
+
+<h3 id="to-the-engineering-leaders-reading-this">To the Engineering Leaders Reading This</h3>
+
+<p>This cultural divide, with juniors overwhelmed by speed and seniors cautious from experience, is becoming one of the defining leadership challenges of the AI era.</p>
+
+<p>How are you managing it inside your teams? I’d love to hear what you’re seeing in the field.</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="general" /><category term="ai" /><category term="leadership" /><category term="engineering-management" /><category term="ai" /><category term="developer-productivity" /><category term="delivery" /><category term="team-dynamics" /><summary type="html"><![CDATA[Leading Dev Teams Past the AI Velocity Trap]]></summary></entry><entry><title type="html">The risks to AI as I see it</title><link href="http://localhost:4000/general/ai/leadership/2026/06/21/the-risks-to-ai-as-i-see-it.html" rel="alternate" type="text/html" title="The risks to AI as I see it" /><published>2026-06-21T11:00:00-06:00</published><updated>2026-06-21T11:00:00-06:00</updated><id>http://localhost:4000/general/ai/leadership/2026/06/21/the-risks-to-ai-as-i-see-it</id><content type="html" xml:base="http://localhost:4000/general/ai/leadership/2026/06/21/the-risks-to-ai-as-i-see-it.html"><![CDATA[<p>Everyone is asking what AI will do <em>to us</em>. Almost no one is asking what we’re doing <em>to AI</em> , and the risks we’re creating as we rush head-first into automation. I’ve leaned heavily into AI myself, and I’ll say the quiet part out loud: the version of software engineering we grew up with is gone. Something new is emerging, and it’s moving faster than most organizations can absorb.</p>
+
+<p>As I watch this transition unfold from inside an engineering leadership role, three risks stand out.</p>
+
+<hr />
+
+<h2 id="1-the-economic-domino-effect">1. The Economic Domino Effect</h2>
+<h3 id="taxes-labor-shifts-and-the-blue-collar-illusion"><em>Taxes, Labor Shifts, and the Blue-Collar Illusion</em></h3>
+
+<p>There’s a lot of debate about whether AI will “take your job.” From what I’ve seen, the honest answer is yes , at least for a significant portion of white-collar roles. The adoption curve is nothing like the industrial revolution. This is happening in quarters, not decades.</p>
+
+<p>The deeper risk isn’t just job loss. It’s the structural strain on the systems that keep society running. Governments rely heavily on payroll taxes from high-earning knowledge workers. If companies aggressively automate those roles, that revenue evaporates. Policy ideas like UBI sound clean on paper, but the fiscal gap they’d need to fill is enormous.</p>
+
+<p>There’s also a popular belief that blue-collar jobs are “safe” because AI can’t swing a hammer. But that ignores basic economics. White-collar workers fund blue-collar demand. If a $180k PM loses their job, they’re not remodeling their kitchen. Multiply that across an industry and you get:</p>
+
+<ul>
+  <li><strong>Less demand</strong> for contracting and skilled trades</li>
+  <li><strong>A sudden influx</strong> of laid-off workers entering trade schools</li>
+  <li><strong>Oversupply</strong> in a shrinking market</li>
+  <li><strong>Downward pressure</strong> on wages and stability</li>
+</ul>
+
+<p>Everything is connected. When one tier collapses, the others feel it.</p>
+
+<hr />
+
+<h2 id="2-the-first-quarter-budget-burn">2. The First-Quarter Budget Burn</h2>
+<h3 id="vendor-lock-in-and-unmonitored-ai-spend"><em>Vendor Lock-In and Unmonitored AI Spend</em></h3>
+
+<p>A pattern is emerging across the industry: companies burn through their entire annual AI budget by Q1 because they scaled too fast without understanding token and compute economics.</p>
+
+<p>The bigger danger is architectural. Entire verticals are building products that are essentially wrappers around a single foundation model. When your business depends on one engine (Claude, GPT, Gemini, whatever), you’ve surrendered all pricing power. If that provider raises prices, you either:</p>
+
+<ul>
+  <li><strong>Eat the margin loss</strong>, or</li>
+  <li><strong>Pass the cost</strong> to customers who are already tightening budgets</li>
+</ul>
+
+<p>That’s not a strategy. That’s a trap. Vendor lock-in isn’t new, but the speed and depth of dependency in the AI era is unprecedented. Companies are building on sand without realizing it.</p>
+
+<hr />
+
+<h2 id="3-security-at-ai-speed">3. Security at AI Speed</h2>
+<h3 id="bad-actors-dont-wait-for-governance"><em>Bad Actors Don’t Wait for Governance</em></h3>
+
+<p>Security teams move on quarterly roadmaps. Attackers move on minutes.</p>
+
+<p>Bad actors are already using AI to automate vulnerability discovery at a pace human teams can’t match. The organizations most at risk aren’t the highly regulated giants , they have guardrails, audits, and paranoia baked in. The danger is in the mid-market:</p>
+
+<ul>
+  <li><strong>Boundary Issues:</strong> Teams rushing AI into production without data boundaries</li>
+  <li><strong>Data Leaks:</strong> Shadow-AI usage leaking sensitive information</li>
+  <li><strong>Lack of Audits:</strong> AI-generated code deployed without verification</li>
+  <li><strong>Exploit Mutation:</strong> Attackers using LLMs to mutate exploits faster than patch cycles</li>
+</ul>
+
+<p>The weakest link won’t be a Fortune 100. It’ll be the company that adopted AI for speed without adopting the security discipline to match it.</p>
+
+<hr />
+
+<h2 id="looking-forward">Looking Forward</h2>
+
+<p>I don’t pretend to have the macro-economic answers. But I do see the operational reality up close: AI is accelerating the volume of work, not reducing it. Leading an engineering team through this transition has made one thing clear: we need new tools, new processes, and new ways of thinking to manage the velocity we’ve unleashed.</p>
+
+<p>This will likely become a multi-part series as I continue mapping what’s breaking, what’s working, and what leaders need to prepare for as AI reshapes the industry in real time.</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="general" /><category term="ai" /><category term="leadership" /><category term="automation" /><category term="engineering-management" /><category term="economics" /><category term="security" /><category term="vendor-lock-in" /><summary type="html"><![CDATA[Everyone is asking what AI will do to us. Almost no one is asking what we’re doing to AI , and the risks we’re creating as we rush head-first into automation. I’ve leaned heavily into AI myself, and I’ll say the quiet part out loud: the version of software engineering we grew up with is gone. Something new is emerging, and it’s moving faster than most organizations can absorb.]]></summary></entry><entry><title type="html">Beyond the Code: IsFullStackDead == False</title><link href="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html" rel="alternate" type="text/html" title="Beyond the Code: IsFullStackDead == False" /><published>2025-08-23T09:00:00-06:00</published><updated>2025-08-23T09:00:00-06:00</updated><id>http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev</id><content type="html" xml:base="http://localhost:4000/beyond/the/code/2025/08/23/full-stack-dev.html"><![CDATA[<p>Apparently, Full Stack Devs are “outdated.” That’s news to me.</p>
 
 <p>I’ve been doing this since the browser wars, when debugging meant praying your code worked in both Netscape and Internet Explorer. I started in QA, taught myself VB5, and built my first paid app to automate my own job.</p>
 
@@ -369,49 +517,4 @@ I’d love to hear about any tips and tricks you may have with studying up for t
   <li>Implemented Testing</li>
   <li>Implemented Development Enhancements locally</li>
   <li>Implemented AWS environment</li>
-</ul>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="kickConnect" /><summary type="html"><![CDATA[While it has been a productive couple of months, building a new application from scratch is a lot of work! I’ve never built a CRM before, so I’m still learning about the important features and letting the application guide me in understanding what it needs. I know that might sound weird, but for example, I’m working on the Profiles section right now. I have a ROLE of INSTRUCTOR that can be assigned to internal users, I have also built the Events and Scheduling sections, but now I need to assign the Events to the Instructor. So, I’m working through the flow of how to get that done. There’s the “just get it to work” from a programming perspective, but then there’s also making sure it “works for the user” perspective. That’s what I mean by allowing the application to tell me what it needs.]]></summary></entry><entry><title type="html">Status of kickConnect</title><link href="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html" rel="alternate" type="text/html" title="Status of kickConnect" /><published>2024-11-11T12:00:00-07:00</published><updated>2024-11-11T12:00:00-07:00</updated><id>http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status</id><content type="html" xml:base="http://localhost:4000/kickconnect/2024/11/11/kickConnect-Status.html"><![CDATA[<h2 id="kickconnect-v03alpha">kickConnect v.0.3(Alpha)</h2>
-<p>The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)!  I wanted an experience much like when I schedule meetings.  I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar.  There was <b>A LOT</b> of testing that when into this functionality.  As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table).  The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!<br /></p>
-
-<p><img src="/assets/images/KC-Scheduler.png" alt="Scheduler Screenshot" /></p>
-
-<h4 id="testing-playwright">Testing: Playwright</h4>
-<p>As a developer I have used Selenium for regression testing. A while back I started to hear about Playwright.  I started looking at it last week and HOLY COW IT IS AMAZING!!!  And…  Super simple.  I’m still writing tests, but I can now say the kickConnect NOW HAS TESTS!  What I would like to do is write a test for every component that kickConnect has, then I want to write tests that will “SEED” the database for release purposes.  As the application gets bigger with more features the database is harder and harder to keep clean. So being able to truncate all the data out of the database and then have tests to re-add the data, all while testing to make sure everything works seems like a no brainer.</p>
-
-<h4 id="working-on-new-features">Working on NEW features</h4>
-<p>I’m working on 3 features right now!  Profiles, Shopify integration and HTML Template Customization.</p>
-
-<p>Profiles is the pre-cursor for the ability to really complete the circle of Events/Classes.  The system allows for the creation for Events, and as discussed above users can now “Schedule” those Events/Classes.  The last step is to “Assign” the Events/Classes to Profiles.</p>
-
-<p>Shopify Integration is in the infant stages of development.  But the idea is I want kickConnect to tie into the Shopify network for e-commerce capabilities.</p>
-
-<p>The last thing that I’m pretty stoked about is the HTML-Template customization.  One of the requirements I had early on for kickConnect is to allow the functionality to offer HTML Templates for small businesses to host.  This weekend I started work on that.  I’m very excited to show what capability soon!</p>
-
-<h3 id="whats-the-road-map">What’s the Road map…</h3>
-<p>-Profiles
--Shopify
--HTML-Template Customization
--Component Management
-    - Ability to turn on and off components for users
--Member Portal
--Member Tables and Date Input
--Importing existing data 
--Phone Apps
--Communication ability</p>
-
-<p>-AWS Architecture
-    - Lambdas
-    - API Gateway
-    - Containers
-    - Deployments</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="kickConnect" /><summary type="html"><![CDATA[kickConnect v.0.3(Alpha) The current version released a few weeks back is v0.3 - I finally finished a major component (Scheduler)! I wanted an experience much like when I schedule meetings. I wanted to book classes using a visual representation of when those classes would appear on the weekly calendar. There was A LOT of testing that when into this functionality. As it stands right now a user can add Existing Classes that were entered in previously (the user is shown a list) as well as New Classes (ones that have NOT been added to the Classes table). The user can also edit classes that have been added to the scheduler by updating the day, time, reservation and cost!]]></summary></entry><entry><title type="html">Welcome to the J:\V BLOG</title><link href="http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG.html" rel="alternate" type="text/html" title="Welcome to the J:\V BLOG" /><published>2024-11-10T12:00:00-07:00</published><updated>2024-11-10T12:00:00-07:00</updated><id>http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG</id><content type="html" xml:base="http://localhost:4000/general/2024/11/10/welcome-to-JV-BLOG.html"><![CDATA[<h2 id="welcome-to-the-jv-blog">Welcome to the J:\V BLOG</h2>
-
-<p>I’ve blogged before, so welcome back!  But if you’re new here, let me introduce myself. My name is Jeff, I’ve been a Full Stack Developer since the very beginning of my career.  I’m proud of this and to be honest I wear it as a badge of honor.  It’s never been an <i>easy</i> career, but I relish the feeling of figuring something out that I’ve never done before!  Most of my career has been as a Microsoft developer.  I started out as a VB4 dev and ASP, I have fond memories of the browser wars and the dot com BOOM(&amp; BUST)!  Since the early 2000’s I adopted .NET and C#.  I’ve dabbled in .php and I was a PROUD Windows Phone developer (I’m still sad/<span style="color: red;">angry</span> it wasn’t more popular).  Since my Windows Phone days, I’ve done WPF, ASP.NET, webAPI (all w/C# as my language of choice) and my front end of choice is Angular w/typeScript although I’ve dabbled with Vue.js and React as well.<br />
-<br />
-My current passion project is something I call <a href="http://kickconnect-env-1.eba-bsj8msyj.us-east-1.elasticbeanstalk.com/" target="_blank">KickConnect!</a>  It is a Customer Management Relationship tool for Martial Art studios.  I’m building that in Angular, Node/ExpressJS with a MySQL database.</p>
-
-<h4 id="this-will-be-my-main-platform-for-kickconnect-updates">This will be my main platform for <b>KickConnect</b> updates:</h4>
-<p>I will share the latest updates and insights on KickConnect. I’ll be sharing successes, failures and everything in-between!</p>
-
-<h4 id="continuing-the-beyond-the-code-posts">Continuing the “<b>Beyond the Code:</b>” posts</h4>
-<p>I’m going to continue to go beyond just the technical aspects of programming and explore the human side of technology.  It will be my story of the current state of tech.</p>
-
-<p>Thank you for reading this, I hope you have a great day!  I’m glad to have a place to share my journey!</p>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="general" /><summary type="html"><![CDATA[Welcome to the J:\V BLOG]]></summary></entry></feed>
+</ul>]]></content><author><name>jeffvaccaro</name><email>jeff.vaccaro@gmail.com</email></author><category term="kickConnect" /><summary type="html"><![CDATA[While it has been a productive couple of months, building a new application from scratch is a lot of work! I’ve never built a CRM before, so I’m still learning about the important features and letting the application guide me in understanding what it needs. I know that might sound weird, but for example, I’m working on the Profiles section right now. I have a ROLE of INSTRUCTOR that can be assigned to internal users, I have also built the Events and Scheduling sections, but now I need to assign the Events to the Instructor. So, I’m working through the flow of how to get that done. There’s the “just get it to work” from a programming perspective, but then there’s also making sure it “works for the user” perspective. That’s what I mean by allowing the application to tell me what it needs.]]></summary></entry></feed>
