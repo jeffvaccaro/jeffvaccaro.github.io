@@ -5,7 +5,9 @@ date: 2026-08-03
 categories: beyond the code
 ---
 
-A friend and I were talking recently about what AI has actually changed in development. We're not starting at `step[0]` anymore, we're starting around `step[10]`. That's basically my answer to the developers who say, *"If you vibe code, somebody behind you is going to have to debug your vibe-coded slop."* No. It won't be a person combing through the generated code line by line. It'll be AI, directed by a person, looking at the code, understanding it, and fixing it. **The human's job isn't to write the syntax anymore; it's to define the boundaries, run the test suites, and audit the result.**
+A friend and I were talking recently about what AI has actually changed in development. We’re not starting at `step[0]` anymore, we’re starting around `step[10]`.
+
+That new starting line changes how we maintain software, too. When developers tell me, *"If you vibe code, somebody behind you is going to have to debug your vibe-coded slop,"* they're missing the point. It won’t be a person combing through generated syntax line by line. It’ll be AI, directed by a person, analyzing the code, understanding it, and fixing it.
 
 Software engineering is changing, the same way furniture making changed once factories and machine tools took over what used to be entirely hand work. Furniture is still around. It's just not built the old way anymore-not for most people. That's the direction software is headed, too.
 
