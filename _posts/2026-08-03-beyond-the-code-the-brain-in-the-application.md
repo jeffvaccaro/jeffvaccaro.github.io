@@ -5,7 +5,7 @@ date: 2026-08-03
 categories: beyond the code
 ---
 
-A friend and I were talking recently about what AI has actually changed in development. We’re not starting at `step[0]` anymore, we’re starting around `step[10]`.
+A friend and I were talking recently about what AI has actually changed in development. We’re not starting at `step[0]` anymore. We’re starting at `step[10]`, moving straight past the manual heavy lifting to focus on architecture, context, and intent.
 
 That new starting line changes how we maintain software, too. When developers tell me, *"If you vibe code, somebody behind you is going to have to debug your vibe-coded slop,"* they're missing the point. It won’t be a person combing through generated syntax line by line. It’ll be AI, directed by a person, analyzing the code, understanding it, and fixing it.
 
