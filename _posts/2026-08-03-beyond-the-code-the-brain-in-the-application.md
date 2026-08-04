@@ -33,7 +33,7 @@ There's a *brain* sitting inside the application. Not a tool bolted on the side.
 
 When we decided as a team to actually bring AI into how we work, we started together, as a group, running through prompt engineering exercises. We were amazed by what it could do.
 
-Once I let developers start applying it on their own, I noticed something. I'd had six months on this, and if I'm honest, I probably sounded the same way six months earlier. The most common reaction was something like, *"Well, this is how I'd do it,"* or *"This is how I want to use it."* It stopped at what was familiar instead of pushing to find out what else was possible.
+Once I let developers start applying it on their own, I noticed something. _I'd had six months on this, and if I'm honest, I probably sounded the same way six months earlier._ The most common reaction was something like, *"Well, this is how I'd do it,"* or *"This is how I want to use it."* It stopped at what was familiar instead of pushing to find out what else was possible.
 
 So I kept pushing:
 * *Feed it a screenshot.*
